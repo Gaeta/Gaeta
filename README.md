@@ -1,5 +1,4 @@
-# Hello! My name is Spooder! 👋
-## I’m currently working on, Grace Bot!
+# Hello! My name is Spooder or Spoods! 👋
 <!--
 **Dream-cake/Dream-cake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
