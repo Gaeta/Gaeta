@@ -15,10 +15,12 @@
 ## My favs 💙 (shh these are a secrect...)
 **Hey! I said it was a secret... Not even you can know! Become friends with me to find out!**
 
-
+## Stats
+[![A quick review](https://github-readme-stats.vercel.app/api?username=Dream-cake)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Special Thanks
   Special thanks to [Dark](https://github.com/ImDarkDiamond) to inspiring me to remake my github area!
+
 
 <!--
 **Dream-cake/Dream-cake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
