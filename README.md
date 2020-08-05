@@ -19,7 +19,9 @@
 **Hey! I said it was a secret... Not even you can know! Become friends with me to find out!**
 
 ### Special Thanks
-  Special thanks to [@ImDarkDiamond](https://github.com/ImDarkDiamond) to inspiring me to remake my github area!
+  - [@ImDarkDiamond](https://github.com/ImDarkDiamond) to inspiring me to remake my github area!
+  - Logan (ItzLogan#7154) Dope Boss!
+  - Nathan (Chucky ♕#1337) Ape aka boss but ape.
 
 
 <!--
