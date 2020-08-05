@@ -16,7 +16,7 @@
 **Hey! I said it was a secret... Not even you can know! Become friends with me to find out!**
 
 ## Stats
-[![A quick review](https://github-readme-stats.vercel.app/api?username=Dream-cake)](https://github.com/anuraghazra/github-readme-stats)
+[![A quick review](https://github-readme-stats.vercel.app/api?username=Dream-cake&show_icons=true&title_color=d64bea&bg_color=343a40&text_color=fff&icon_color=9656eb&include_all_commits=true&count_private=true&line_height=25)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Special Thanks
   Special thanks to [Dark](https://github.com/ImDarkDiamond) to inspiring me to remake my github area!
