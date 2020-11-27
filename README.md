@@ -4,10 +4,17 @@
 
 ## Currently Working On/At
 - 🤖 [``Grace Bot``](https://gracebot.net/?from=SpooderGithub)
-- ⚡ [``Primed Hosting``](https://primedhosting.com/?from=SpooderGithub)
+  - 🔒 [``Main Repo``](https://github.com/Dream-cake/Grace)
+  - 🔓 [``Public Rep``](https://github.com/Dream-cake/Grace-public)
+  - 🔓 [``Locales Rep``](https://github.com/Dream-cake/Grace-locales)
 
+- ⚡ [``Primed Hosting``](https://primedhosting.com/?from=SpooderGithub)
+  - 🔓 [``GitHub``](https://github.com/primedteam)
+    - 🔓 [``Status Page Pinnger``](https://github.com/primedteam/statusPagePinger)
+    - 🔓 [``Sarah Bot``](https://github.com/primedteam/Sarah-Bot)
+    
 ## Im always around to talk!
-- via Email: ``Spooder@gracebot.net`` (**Please dont spam <3**)
+- via Email: ``Spooder@gracebot.net`` (**Please dont spam <3, only check one a month!**)
 - via Discord: ``Spooder#1111 (131417543888863232)``
   - [``Grace Bot Server``](https://gracebot.net/support)
   - [``PrimedHosting Server``](https://primedhosting.com/discord)
@@ -19,9 +26,7 @@
 **Hey! I said it was a secret... Not even you can know! Become friends with me to find out!**
 
 ### Special Thanks
-  - [@ImDarkDiamond](https://github.com/ImDarkDiamond) to inspiring me to remake my github area!
-  - Logan (ItzLogan#7154) Dope Boss!
-  - Nathan (Chucky ♕#1337) Ape aka boss but ape.
+  - Me (JK)
 
 
 <!--
