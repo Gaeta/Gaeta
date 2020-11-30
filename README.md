@@ -17,7 +17,7 @@
 - via Email: ``Spooder@gracebot.net`` (**Please dont spam <3, only check one a month!**)
 - via Discord: ``Spooder#1111 (131417543888863232)``
   - [``Grace Bot Server``](https://gracebot.net/support)
-  - [``PrimedHosting Server``](https://primedhosting.com/discord)
+  - [``Primed Hosting Server``](https://primedhosting.com/discord)
 
 ## Stats
 [![A quick review](https://github-readme-stats.vercel.app/api?username=Dream-cake&show_icons=true&title_color=d64bea&bg_color=343a40&text_color=fff&icon_color=9656eb&include_all_commits=true&count_private=true&line_height=20)](https://github.com/anuraghazra/github-readme-stats)
