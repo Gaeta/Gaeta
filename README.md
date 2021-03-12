@@ -1,4 +1,4 @@
-# Hello! My name is Spooder or Spoods! 👋
+# Hello! 👋
 
   I'm been developing for around 5 years (going on 6 years soon!) I'm a developer that like's to hide his code because in my eyes it's a mess but in the real world it's clean and runs smoothly! I currently have under my belt is Node.JS, Vue.JS, Java, nginx, express, html, css3/sass (and more). While having those languages under my belt im always learning trying to learn new languages like python, rust, go, and more! Currently spending my off days helping at [PrimedHosting](https://primedhosting.com/?ref=GaetaGithub), creating [Discord](https://discord.com) Bots ([Grace Bot](https://gracebot.net/?from=SpooderGithub)), and I currently attend a technical high school trying to become a Computer/Computer-Science/Software Engineer! Yes I know im rambling now... don't judge me mate man.
 
