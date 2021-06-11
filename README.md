@@ -15,7 +15,7 @@
     
 ## Im always around to talk!
 - via Email: ``Spooder@gracebot.net`` (**Please dont spam <3, only check once a month!**)
-- via Discord: ``Spooder#1780 (131417543888863232)``
+- via Discord: ``Spooder#1111 (131417543888863232)``
   - [``Grace Bot Server``](https://gracebot.net/support)
   - [``Primed Hosting Server``](https://primedhosting.com/discord)
 
