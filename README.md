@@ -1,23 +1,15 @@
 # Hello! 👋
 
-  I'm been developing for around 5 years (going on 6 years soon!) I'm a developer that like's to hide his code because in my eyes it's a mess but in the real world it's clean and runs smoothly! I currently have under my belt is Node.JS, Vue.JS, Java, nginx, express, html, css3/sass (and more). While having those languages under my belt im always learning trying to learn new languages like python, rust, go, and more! Currently spending my off days helping at [PrimedHosting](https://primedhosting.com/?ref=GaetaGithub), creating [Discord](https://discord.com) Bots ([Grace Bot](https://gracebot.net/?ref=GaetaGithub)), and I currently attend a technical high school trying to become a Computer/Computer-Science/Software Engineer! Yes I know im rambling now... don't judge me mate man.
+  I'm been developing for around 5 years (going on 6 years soon!) I'm a developer that like's to hide his code because in my eyes it's a mess but in the real world it's clean and runs smoothly! I currently have under my belt is Node.JS/JS (and most of its popular frameworks), Java, nginx w/ express, html, css3/sass (and more). While having those languages under my belt im always learning trying to learn new languages like python, rust, go, and more! Currently spending my off days this summer creating cool ideas and hanging out with friends, and I currently attend a technical high school trying to become a Computer/Computer-Science/Software Engineer one day (I hope)! Yes I know im rambling now... don't judge me mate man.
 
 ## Currently Working On/At
-- [``🤖 Grace Bot``](https://gracebot.net/?from=GaetaGithub)
+-  🤖 Grace Bot A Discord Bot
   - [``🔒 Main Repo``](https://github.com/Gaeta/Grace)
   - [``🔓 Public Rep``](https://github.com/Gaeta/Grace-public)
   - [``🔓  Locales Rep``](https://github.com/Gaeta/Grace-locales)
 
-- [``⚡ Primed Hosting``](https://primedhosting.com/?ref=GaetaGithub)
-  - [``🔓 GitHub``](https://github.com/primedteam)
-    - [``🔓 Status Page Pinnger``](https://github.com/primedteam/statusPagePinger)
-    - [``🔓 Sarah Bot``](https://github.com/primedteam/Sarah-Bot)
-    
-## Im always around to talk!
-- via Email: ``Spooder@gracebot.net`` (**Please dont spam <3, only check once a month!**)
-- via Discord: ``Spooder#1111 (131417543888863232)``
-  - [``Grace Bot Server``](https://gracebot.net/support)
-  - [``Primed Hosting Server``](https://primedhosting.com/discord)
+- 🤖 Robot Image Creator
+  - [``🔓 GitHub``](https://github.com/Gaeta/robotImageCreator)
 
 ## Stats
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Gaeta&theme=onedark&fire=D64BEA&ring=9656EB&sideLabels=FFFFFF&currStreakNum=3682EC&sideNums=3682EC&dates=959EAB&currStreakLabel=FFFFFF" alt="grace" />
@@ -35,4 +27,8 @@
   - Me (JK)
   - My Friends
   - My Family
+
+## Im always around to talk!
+- via Email: ``dj@gaeta.me`` (**Please dont spam <3, only check once a month!**)
+- via Discord: ``Spooder#1111 (131417543888863232)``
 
