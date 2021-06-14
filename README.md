@@ -12,7 +12,7 @@
   - [``🔓 Github Repo``](https://github.com/Gaeta/robotImageCreator)
 
 ## Stats
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Gaeta&theme=onedark&fire=D64BEA&ring=9656EB&sideLabels=FFFFFF&currStreakNum=3682EC&sideNums=3682EC&dates=959EAB&currStreakLabel=FFFFFF" alt="grace" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Gaeta&theme=onedark&fire=D64BEA&ring=9656EB&sideLabels=FFFFFF&currStreakNum=3682EC&sideNums=3682EC&dates=959EAB&currStreakLabel=FFFFFF&f" alt="grace" />
 <img src="https://github-profile-trophy.vercel.app/?username=Gaeta&theme=onedark&margin-w=15" alt="Gaeta" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaeta&show_icons=true&title_color=d64bea&theme=onedark&text_color=fff&icon_color=9656eb&include_all_commits=true&count_private=true&line_height=20&layout=compact&hide=html&cache=false" />  <img src="https://github-readme-stats.vercel.app/api?username=Gaeta&show_icons=true&title_color=d64bea&theme=onedark&text_color=fff&icon_color=9656eb&include_all_commits=true&count_private=true&line_height=20&cache=false" />
