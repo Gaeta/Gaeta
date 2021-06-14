@@ -9,7 +9,7 @@
   - [``🔓  Locales Rep``](https://github.com/Gaeta/Grace-locales)
 
 - 🤖 Robot Image Creator
-  - [``🔓 GitHub``](https://github.com/Gaeta/robotImageCreator)
+  - [``🔓 Github Repo``](https://github.com/Gaeta/robotImageCreator)
 
 ## Stats
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Gaeta&theme=onedark&fire=D64BEA&ring=9656EB&sideLabels=FFFFFF&currStreakNum=3682EC&sideNums=3682EC&dates=959EAB&currStreakLabel=FFFFFF" alt="grace" />
