@@ -4,8 +4,7 @@
 
 ## Currently Working On/At
 - 🤖 Grace Bot A Discord Bot
-  - [``🔒 Main Repo``](https://github.com/Gaeta/Grace)
-  - [``🔓 Public Rep``](https://github.com/Gaeta/Grace-public)
+  - [``Organization``](https://github.com/BotGrace)
   - [``🔓  Locales Rep``](https://github.com/Gaeta/Grace-locales)
 
 - 🤖 Robot Image Creator
