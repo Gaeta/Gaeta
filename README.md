@@ -3,12 +3,16 @@
   I'm been developing for around 5+ years, I'm that type of developer that like's to hide his code because in my eyes it's a huge mess but in the real world it's clean and runs smoothly! I currently have under my belt is Node.JS/JS (and most of its popular frameworks), Java, nginx w/ & w/o express, html, css3/sass (and more). While having those languages under my belt im always learning trying to learn new languages like python, rust, go, and more! Currently spending my off days this summer creating cool ideas and hanging out with friends, and I currently attend a technical high school trying to become a Computer/Computer-Science/Software Engineer one day (I hope)! Yes I know im rambling now... don't judge me mate man.
 
 ## Currently Working On/At
-- 🤖 Grace Bot A Discord Bot
+- 🤖 Grace Bot - A Discord Bot
   - [``Organization``](https://github.com/BotGrace)
   - [``🔓  Locales Rep``](https://github.com/Gaeta/Grace-locales)
 
-- 🤖 Robot Image Creator
+- 🤖 Robot Image Creator - A robot that will create an image for you
   - [``🔓 Github Repo``](https://github.com/Gaeta/robotImageCreator)
+
+- 🎵 SpotiTube - A Spotify to YouTube Converter with the help of LavaLink!
+  - [``🔓 Github Repo``](https://github.com/BotGrace/SpotiTube)
+  - [``🗒️ Documentation (Stable)``](https://spotitube.git.gracebot.net/)
 
 ## Stats
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Gaeta&theme=onedark&fire=D64BEA&ring=9656EB&sideLabels=FFFFFF&currStreakNum=3682EC&sideNums=3682EC&dates=959EAB&currStreakLabel=FFFFFF&count_private=true" alt="grace" />
