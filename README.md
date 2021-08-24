@@ -4,13 +4,13 @@
 
 ## Currently Working On/At
 - 🤖 Grace Bot - A Discord Bot
-  - [``Organization``](https://github.com/BotGrace)
+  - [``Organization Page``](https://github.com/BotGrace)
   - [``🔓  Locales Rep``](https://github.com/Gaeta/Grace-locales)
 
 - 🤖 Robot Image Creator - A robot that will create an image for you
   - [``🔓 Github Repo``](https://github.com/Gaeta/robotImageCreator)
 
-- 🎵 SpotiTube - A Spotify to YouTube Converter with the help of LavaLink!
+- 🎵 SpotiTube - A Spotify to YouTube Converter with the help of LavaLink & Redis!
   - [``🔓 Github Repo``](https://github.com/BotGrace/SpotiTube)
   - [``🗒️ Documentation (Stable)``](https://spotitube.git.gracebot.net/)
 
