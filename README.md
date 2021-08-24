@@ -32,6 +32,6 @@
   - My Family
 
 ## Im always around to talk!
-- via Email: ``dj@gaeta.me`` (**Please dont spam <3, only check once a month!**)
+- via Email: ``dj@gaeta.me`` (**Please dont spam <3, only checked once a month!**)
 - via Discord: ``Spooder#1111 (131417543888863232)``
 
