@@ -12,7 +12,7 @@
 
 - 🎵 SpotiTube - A Spotify to YouTube Converter with the help of LavaLink & Redis!
   - [``🔓 Github Repo``](https://github.com/BotGrace/SpotiTube)
-  - [``🗒️ Documentation (Stable)``](https://spotitube.git.gracebot.net/)
+  - [``🗒️ Documentation (Stable)``](https://spotitube.git.gracebot.net?ref=Gaeta)
 
 ## Stats
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Gaeta&theme=onedark&fire=D64BEA&ring=9656EB&sideLabels=FFFFFF&currStreakNum=3682EC&sideNums=3682EC&dates=959EAB&currStreakLabel=FFFFFF&count_private=true" alt="grace" />
