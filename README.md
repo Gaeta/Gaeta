@@ -9,7 +9,7 @@
   - [``🔓  Locales Rep``](https://github.com/Gaeta/Grace-locales)
 
 - 🤖 Robot Image Creator - A robot that will create an image for you
-  - [``🔓 Github Repo``](https://github.com/Gaeta/robotImageCreator)
+  - [``🔓 Github Repo (Stable)``](https://github.com/Gaeta/robotImageCreator)
 
 - 🎵 SpotiTube - A Spotify to YouTube Converter with the help of LavaLink & Redis!
   - [``🔓 Github Repo``](https://github.com/BotGrace/SpotiTube)
