@@ -15,6 +15,9 @@
   - [``🔓 Github Repo``](https://github.com/BotGrace/SpotiTube)
   - [``🗒️ Documentation (Stable)``](https://spotitube.git.gracebot.net?ref=Gaeta)
 
+-⚙️Cloudprint MakerBot API Wrapper - An Cloudprint MakerBot API Wrapper library built in Node.JS
+  - [``🔓 Github Repo``](https://github.com/Gaeta/Cloudprint-MakerBot-API-Wrapper)
+
 ## Stats
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Gaeta&theme=onedark&fire=D64BEA&ring=9656EB&sideLabels=FFFFFF&currStreakNum=3682EC&sideNums=3682EC&dates=959EAB&currStreakLabel=FFFFFF&count_private=true&fh=fh2" alt="grace" />
 <img src="https://github-profile-trophy.vercel.app/?username=Gaeta&count_private=true&theme=onedark&margin-w=15" alt="Gaeta" />
