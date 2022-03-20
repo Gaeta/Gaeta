@@ -3,15 +3,19 @@
   I'm been developing for around 5+ years, I'm that type of developer that like's to hide his code because in my eyes it's a huge mess but in the real world it's clean and runs smoothly! I currently have under my belt is Node.JS/JS (and most of its popular frameworks), Java, nginx w/ & w/o express, html, css3/sass (and more). While having those languages under my belt im always learning trying to learn new languages like python, rust, go, and more! Currently spending my off days this summer creating cool ideas and hanging out with friends, and I currently attend a technical high school trying to become a Computer/Computer-Science/Software Engineer one day (I hope)! Yes I know im rambling now... don't judge me mate man!
 
 ## Currently Working On/At
-- 🤖 Grace Bot - A Discord Bot
+- ⚙️ PloxHost, LLC - Software Eng. & Customer Support Rep.
+  - [``Website``](https://plox.host/ref=Gaeta_GitHub)
+   - [``Github``](https://github.com/PloxHosts)
+
+- 🤖 Grace Bot - A Discord Bot (Archived)
   - [``Organization Page``](https://github.com/BotGrace)
   - [``Website``](https://gracebot.net/?ref=Gaeta)
   - [``🔓  Locales Rep``](https://github.com/Gaeta/Grace-locales)
 
-- 🤖 Robot Image Creator - A robot that will create an image for you
+- 🤖 Robot Image Creator - A robot that will create an image for you (Archived)
   - [``🔓 Github Repo (Archived)``](https://github.com/Gaeta/robotImageCreator)
 
-- 🎵 SpotiTube - A Spotify to YouTube Converter with the help of LavaLink & Redis!
+- 🎵 SpotiTube - A Spotify to YouTube Converter with the help of LavaLink & Redis! (Finished)
   - [``🔓 Github Repo``](https://github.com/BotGrace/SpotiTube)
   - [``🗒️ Documentation (Stable)``](https://spotitube.git.gracebot.net?ref=Gaeta)
 
