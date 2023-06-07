@@ -2,8 +2,12 @@
 
   I'm been developing for around 5+ years, I'm that type of developer that like's to hide his code because in my eyes it's a huge mess but in the real world it's clean and runs smoothly! I currently have under my belt is Node.JS/JS (and most of its popular frameworks), Java, nginx w/ & w/o express, html, css3/sass (and more). While having those languages under my belt im always learning trying to learn new languages like python, rust, go, and more! Currently spending days this year creating cool ideas and hanging out with friends, and I currently attend a technical high school trying to become a Computer/Computer-Science/Software Engineer one day (I hope)! Yes I know im rambling now... don't judge me mate man!
 
+# Life Update :D 6/6/23
+
+  Hello, its been some time since ive given an update so here it is! I just graduated from HS! I now will be attending college for Computer Science. At the same time working an IT Job xD 
+
 ## Currently Working On/At
-- ⚙️ PloxHost, LLC - Software Eng. & Customer Support Rep.
+- ⚙️ PloxHost, LLC - Team Leave & Software Eng. & Customer Support Rep.
   - [``Website``](https://plox.host/ref=Gaeta_GitHub)
    - [``Github``](https://github.com/PloxHosts)
 
