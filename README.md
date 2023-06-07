@@ -1,6 +1,6 @@
 # Hello! 👋
 
-  I'm been developing for around 5+ years, I'm that type of developer that like's to hide his code because in my eyes it's a huge mess but in the real world it's clean and runs smoothly! I currently have under my belt is Node.JS/JS (and most of its popular frameworks), Java, nginx w/ & w/o express, html, css3/sass (and more). While having those languages under my belt im always learning trying to learn new languages like python, rust, go, and more! Currently spending days this year creating cool ideas and hanging out with friends, and I currently attend a technical high school trying to become a Computer/Computer-Science/Software Engineer one day (I hope)! Yes I know im rambling now... don't judge me mate man!
+  I'm been developing for around 5+ years, I'm that type of developer that like's to hide his code because in my eyes it's a huge mess but in the real world it's clean and runs smoothly! I currently have under my belt is Node.JS/JS (and most of its popular frameworks), Java, nginx w/ & w/o express, html, css3/sass (and more). While having those languages under my belt im always learning trying to learn new languages like python, rust, go, and more! Currently spending days this year creating cool ideas and hanging out with friends, and I currently just ugraduated from a technical high school (Now attending College for CS) trying to become a Computer/Computer-Science/Software Engineer one day (I hope)! Yes I know im rambling now... don't judge me mate man!
 
 # Life Update :D 6/6/23
 
