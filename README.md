@@ -7,14 +7,19 @@
   Hello, its been some time since ive given an update so here it is! I just graduated from HS! I now will be attending college for Computer Science. At the same time working an IT Job xD 
 
 ## Currently Working On/At
-- ⚙️ PloxHost, LLC - Team Leave & Software Eng. & Customer Support Rep.
+- ⚙️ Gaeta.me - My Internal Network System & Portfolio/About Me Site
+  - [`Website`](https://gaeta.me/ref=Gaeta_GitHub)
+   - [`🔒 Github Repo (Temp-Private)`](https://github.com/Gaeta/me-gaeta?ref=Gaeta_GitHub)
+  - [`Resume`](https://gaeta.me/donald-resume?ref=Gaeta_GitHub)
+
+- ⚙️ PloxHost, LLC - Team Lead Developer & Software Eng. & Customer Support Rep. (Left)
   - [``Website``](https://plox.host/ref=Gaeta_GitHub)
    - [``Github``](https://github.com/PloxHosts)
 
 - 🤖 Grace Bot - A Discord Bot (Archived)
   - [``Organization Page``](https://github.com/BotGrace)
   - [``Website``](https://gracebot.net/?ref=Gaeta)
-  - [``🔓  Locales Rep``](https://github.com/Gaeta/Grace-locales)
+  - [``🔓 Locales Rep``](https://github.com/Gaeta/Grace-locales)
 
 - 🤖 Robot Image Creator - A robot that will create an image for you (Archived)
   - [``🔓 Github Repo (Archived)``](https://github.com/Gaeta/robotImageCreator)
@@ -23,7 +28,7 @@
   - [``🔓 Github Repo``](https://github.com/BotGrace/SpotiTube)
   - [``🗒️ Documentation (Stable)``](https://spotitube.git.gracebot.net?ref=Gaeta)
 
-- ⚙️Cloudprint MakerBot API Wrapper - An Cloudprint MakerBot API Wrapper library built in Node.JS
+- ⚙️ Cloudprint MakerBot API Wrapper - An Cloudprint MakerBot API Wrapper library built in Node.JS
   - [``🔓 Github Repo``](https://github.com/Gaeta/Cloudprint-MakerBot-API-Wrapper)
 
 ## Stats
@@ -41,6 +46,7 @@
 
 ### Special Thanks
   - Me (JK)
+  - My Amazing GF
   - My Friends
   - My Family
 
